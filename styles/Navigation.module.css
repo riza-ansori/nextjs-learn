@@ -1,0 +1,15 @@
+.me_auto {
+    width: 100%;
+    justify-content: flex-end;
+}
+.logo {
+    width: auto;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    margin-bottom: 0;
+    max-height: 54%;
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+    -webkit-transform: translate3d(0,0,0);
+}
